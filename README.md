@@ -1,9 +1,8 @@
 # 🚀 Kişisel Portföy Sayfası
 
-Bu proje, **Udemy** platformunda **Murat Yücedağ** tarafından verilen  
-🎓 _"Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin - Part 1 & Part 2"_ eğitimi kapsamında geliştirilmiştir.
+Bu proje, **Udemy** platformunda **Murat Yücedağ** tarafından verilen 🎓 _"Asp.Net Core ile Portfolyo Uygulamanızı Geliştirin - Part 1 & Part 2"_ eğitimi kapsamında geliştirilmiştir.
 
-Orta seviye geliştiricilere yönelik hazırlanmış bu portföy sitesi ile hem **kişisel bilgilerinizi ve projelerinizi sergileyebilir**, hem de içerikleri dinamik olarak yönetebilirsiniz.
+Bu portföy sitesi ile hem **kişisel bilgilerinizi ve projelerinizi sergileyebilir**, hem de içerikleri dinamik olarak yönetebilirsiniz.
 
 ---
 
@@ -39,17 +38,16 @@ Orta seviye geliştiricilere yönelik hazırlanmış bu portföy sitesi ile hem 
 
 - **Entity Layer**: Code-First ile veritabanı tabloları
 - **Data Access Layer (DAL)**: EF Core ile veri işlemleri
-- **UI Layer**: Razor View Engine ile hazırlanmış kullanıcı arayüzü
-- **ViewComponent & Partial View**: Modüler yapı ve kod tekrarından kaçınma
+- **Presentation Layer**: Razor View Engine ile hazırlanmış kullanıcı arayüzü
 
 ---
 
-## 📷 Ekran Görüntüleri
+## 📷 Proje Görselleri
 
-> Proje ile ilgili görseller
+![Ana Sayfa](MyPortfolio/images/img1.png)
+![Görsel 2](MyPortfolio/images/img3.png)
+![Görsel 3](MyPortfolio/images/img4.png)
+![Görsel 4](MyPortfolio/images/img5.png)
+![Görsel 5](MyPortfolio/images/img6.png)
+![Görsel 6](MyPortfolio/images/img7.png)
 
-```md
-![Ana Sayfa](image/img1.png)
-![Görsel 1](image/img2.png)
-![Görsel 2](image/img3.png)
-![Görsel 3](image/img4.png)
