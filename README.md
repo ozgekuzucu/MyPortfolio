@@ -40,4 +40,16 @@ Orta seviye geliştiricilere yönelik hazırlanmış bu portföy sitesi ile hem 
 - **Entity Layer**: Code-First ile veritabanı tabloları
 - **Data Access Layer (DAL)**: EF Core ile veri işlemleri
 - **UI Layer**: Razor View Engine ile hazırlanmış kullanıcı arayüzü
-- **ViewComponent & Partial View**: Modüler yapı ve kod tekrar
+- **ViewComponent & Partial View**: Modüler yapı ve kod tekrarından kaçınma
+
+---
+
+## 📷 Ekran Görüntüleri
+
+> Proje ile ilgili görseller
+
+```md
+![Ana Sayfa](image/img1.png)
+![Görsel 1](image/img2.png)
+![Görsel 2](image/img3.png)
+![Görsel 3](image/img4.png)
